@@ -13,7 +13,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Container(
       color: Colors.white,
-      
+      alignment: Alignment.center,
       child: GestureDetector(
                   child: Text("you are in home  show gyms?",
                       style: TextStyle(
