@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "806200230986",
+    "project_id": "be-fit-776be",
+    "storage_bucket": "be-fit-776be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806200230986:android:4d993cf0346285c34bd2b3",
+        "android_client_info": {
+          "package_name": "com.amrmedo432.befit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806200230986-h80ik8aloaevok8smtitlrb6u0paavvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amrmedo432.befit_app",
+            "certificate_hash": "9df9261b62bb3470a6fbde0498efdf282bef2a1c"
+          }
+        },
+        {
+          "client_id": "806200230986-2et473531arkheqqlo2t5ncp4e2ta78p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAugfn4akPqdCxIkPNJJ-DPnIQoX0BqFPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806200230986-2et473531arkheqqlo2t5ncp4e2ta78p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
